@@ -60,7 +60,7 @@
 <p>
 
 <div align="center">
-  🦈: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  🦈 Thanks for watching my profile! Have a nice day! 🦈 <br/>
   &copy; 
 </div>
 
