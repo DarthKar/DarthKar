@@ -64,12 +64,8 @@
 <p>
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Shourya Sharma
+  🦈: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 
 </div>
 
 ---
-
-Credits: [Shourya Sharma](https://github.com/Shourya742)
-
-Last Edited on: 22/01/2023
