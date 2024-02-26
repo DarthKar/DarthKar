@@ -1,6 +1,6 @@
 <div align="center">
   <p align ="center">
-  <img src="https://media.tenor.com/alc-7tEZNt4AAAAi/dancing-code.gif" width="400px" height="300px" alt="no carga"></img>
+  <img src="https://media1.tenor.com/m/qm-49rlKFCMAAAAC/pup-puppy.gif" width="400px" height="300px" alt="no carga"></img>
 </p>
 </div>
 
