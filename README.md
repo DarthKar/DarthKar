@@ -1,6 +1,6 @@
 <div align="center">
   <p align ="center">
-  <img src="https://media1.tenor.com/m/2HUV1iqSHHIAAAAC/jujutsu-kaisen-meme.gif" width="100px" height="100px" alt="no carga"></img>
+  <img src="https://media1.tenor.com/m/2HUV1iqSHHIAAAAC/jujutsu-kaisen-meme.gif" width="400px" height="300px" alt="no carga"></img>
 </p>
 </div>
 
