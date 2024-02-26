@@ -1,5 +1,7 @@
 <div align="center">
+  <p align="center">
   <img src="https://tenor.com/es-419/view/jujutsu-kaisen-meme-domain-expansion-kurose-choso-gif-15597396894048984178>" width="50px" height="50px" alt="no carga"></img>
+</p>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
