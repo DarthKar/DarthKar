@@ -57,7 +57,7 @@
   <a href="https://profile-summary-for-github.com/user/DarthKar" target="_blank">
     <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
-  
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthkar&" alt="darthkar" /></p> 
 <p>
 
 <div align="center">
