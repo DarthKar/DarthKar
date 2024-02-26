@@ -6,7 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My name is Miguel Angel Peña <img src="https://media1.tenor.com/m/M0GblXBOboIAAAAC/lufy.gif" width="400" align="right"/>
+- :credit_card: My name is Miguel Angel Peña 
 - :school: I'm currently student at **Universidad Nacional De Colombia sede Medellin**
 - :books: My major is **Systems and Computer Engineering**
 - 🌎 I'm living now in **Bello, Antioquia, Colombia**
