@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="https://tenor.com/es-419/view/jujutsu-kaisen-meme-domain-expansion-kurose-choso-gif-15597396894048984178>" width="50px" height="50px" alt="no carga"></img>
+  <img src="[https://tenor.com/es-419/view/jujutsu-kaisen-meme-domain-expansion-kurose-choso-gif-15597396894048984178>](https://media1.tenor.com/m/2HUV1iqSHHIAAAAC/jujutsu-kaisen-meme.gif)" width="50px" height="50px" alt="no carga"></img>
 </p>
 </div>
 
