@@ -15,7 +15,7 @@
 - 📘: My quote is **_"Start with what is right rather than what is acceptable"_**
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthkar&theme=tokyonight_duo" alt="darthkar" /></p> 
 <br>
 
 
@@ -47,7 +47,7 @@
 <br>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthkar&" alt="darthkar" /></p> 
+
 <p align="center">
   
   <a href="https://co.linkedin.com/in/miguel-angel-peña-marin-71abb1267?trk=people-guest_people_search-card" target="_blank">
