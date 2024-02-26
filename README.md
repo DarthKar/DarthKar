@@ -47,7 +47,7 @@
 <br>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthkar&" alt="darthkar" /></p> 
 <p align="center">
   
   <a href="https://co.linkedin.com/in/miguel-angel-peña-marin-71abb1267?trk=people-guest_people_search-card" target="_blank">
@@ -57,7 +57,7 @@
   <a href="https://profile-summary-for-github.com/user/DarthKar" target="_blank">
     <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthkar&" alt="darthkar" /></p> 
+ 
 <p>
 
 <div align="center">
