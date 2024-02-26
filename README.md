@@ -11,7 +11,7 @@
 - :books: My major is **Systems and Computer Engineering**
 - :earth_asia: I'm living now in **Bello, Antioquia, Colombia**
 - 🗿 I'm a intermediate in coding 🐍
-- 🐳: I'm interested in coding, sleeping, and playing videogames
+- 🐳: I'm interested in coding techniques, learning new lenguages and learn about software product development and administration 
 - 📘: My quote is **_"Start with what is right rather than what is acceptable"_**
 - 
 
