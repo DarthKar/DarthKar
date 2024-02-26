@@ -9,8 +9,8 @@
 - :credit_card: My name is Miguel Angel Peña <img src="https://media1.tenor.com/m/M0GblXBOboIAAAAC/lufy.gif" width="400" align="right"/>
 - :school: I'm currently student at **Universidad Nacional De Colombia sede Medellin**
 - :books: My major is **Systems and Computer Engineering**
-- :earth_asia: I'm living now in **Bello, Antioquia, Colombia**
-- 🗿 I'm a intermediate in coding 🐍
+- 🌎 I'm living now in **Bello, Antioquia, Colombia**
+- 🗿 I'm a Junior Programmer 🐍
 - 🐳: I'm interested in coding techniques, learning new lenguages and learn about software product development and administration 
 - 📘: My quote is **_"Start with what is right rather than what is acceptable"_**
 - 
