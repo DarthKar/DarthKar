@@ -53,10 +53,10 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/Ritz38/Estructura-de-datos.git">
+    <a href="https://github.com/POO2023-02-UNALMED/practica-1-grupo-2-equipo-6">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=Estructura-de-datos&theme=tokyonight" alt="GitHub Stats" />
         </a>
-    <a href="https://github.com/Ritz38/Codeforces.git">
+    <a href="https://github.com/POO2023-02-UNALMED/practica-2-grupo-dos-equipo-6">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=Codeforces&theme=tokyonight" alt="GitHub Stats" />
         </a>
         <a href="https://github.com/Ritz38/POO-G4">
