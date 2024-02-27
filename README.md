@@ -53,8 +53,8 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/POO2023-02-UNALMED/practica-1-grupo-2-equipo-6">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Practica-1-JAVA-POO&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/comejen">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=comejen&theme=tokyonight" alt="GitHub Stats" />
         </a>
     <a href="https://github.com/POO2023-02-UNALMED/practica-2-grupo-dos-equipo-6">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=Codeforces&theme=tokyonight" alt="GitHub Stats" />
