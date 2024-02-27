@@ -47,9 +47,31 @@
 
 </p>
 <br>
+<details><summary><h3> 📂 My Repositories </h3><hr></summary>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
+
+<div>
+  <p align="center">
+    <a href="https://github.com/Ritz38/Estructura-de-datos.git">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=Estructura-de-datos&theme=tokyonight" alt="GitHub Stats" />
+        </a>
+    <a href="https://github.com/Ritz38/Codeforces.git">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=Codeforces&theme=tokyonight" alt="GitHub Stats" />
+        </a>
+        <a href="https://github.com/Ritz38/POO-G4">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=POO-G4&theme=tokyonight" alt="GitHub Stats" />
+        </a>
+        <a href="https://github.com/Ritz38/AprendiendoHTML-CSS-JS.git">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=AprendiendoHTML-CSS-JS&theme=tokyonight" alt="GitHub Stats" />
+        </a>
+  </p>
+</div>
+
+</details>
+<p align="center">
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
+</p>
 <p align="center">
   
   <a href="https://co.linkedin.com/in/miguel-angel-peña-marin-71abb1267?trk=people-guest_people_search-card" target="_blank">
@@ -59,6 +81,10 @@
   <a href="https://profile-summary-for-github.com/user/DarthKar" target="_blank">
     <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
+
+  <a href="mailto:miguelangelpenamarin@gmail.com">
+    <img align="center" alt=Darth  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png"/>
+  </a>
  
 
 <div align="center">
