@@ -16,7 +16,7 @@
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthkar&theme=tokyonight_duo" alt="darthkar" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthkar&theme=merko" alt="darthkar" /></p> 
 </div>
 <br>
 
@@ -53,11 +53,11 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/comejen">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=comejen&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/DarthKar/Proyecto-POO-2023-P1">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Proyecto-POO-2023-P1&theme=merko" alt="GitHub Stats" />
         </a>
-    <a href="https://github.com/POO2023-02-UNALMED/practica-2-grupo-dos-equipo-6">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=Codeforces&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/DarthKar/Proyecto-POO-2023-P2">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Proyecto-POO-2023-P2&theme=merko" alt="GitHub Stats" />
         </a>
         <a href="https://github.com/Ritz38/POO-G4">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=POO-G4&theme=tokyonight" alt="GitHub Stats" />
