@@ -62,7 +62,9 @@
  
 <p>
 <p align="center">
-  - 
+  - some fellas social media
+      - Juan Pablo Zuluaga  
+      - Juan Pablo Gaviria
 </p>
 <div align="center">
   🦈 Thanks for watching my profile! Have a nice day! 🦈 <br/>
