@@ -59,11 +59,11 @@
     <a href="https://github.com/DarthKar/Proyecto-POO-2023-P2">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Proyecto-POO-2023-P2&theme=merko" alt="GitHub Stats" />
         </a>
-        <a href="https://github.com/Ritz38/POO-G4">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=POO-G4&theme=tokyonight" alt="GitHub Stats" />
+        <a href="https://github.com/DarthKar/Language-learning-">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Language-learning-&theme=merko" alt="GitHub Stats" />
         </a>
-        <a href="https://github.com/Ritz38/AprendiendoHTML-CSS-JS.git">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritz38&repo=AprendiendoHTML-CSS-JS&theme=tokyonight" alt="GitHub Stats" />
+        <a href="https://github.com/DarthKar/Proyecto-IS">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar8&repo=Proyecto-IS&theme=merko" alt="GitHub Stats" />
         </a>
   </p>
 </div>
