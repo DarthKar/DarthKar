@@ -60,12 +60,7 @@
     <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
  
-<p>
-<p align="center">
-  - some fellas social media
-      - Juan Pablo Zuluaga  
-      - Juan Pablo Gaviria
-</p>
+
 <div align="center">
   🦈 Thanks for watching my profile! Have a nice day! 🦈 <br/>
   &copy; 
