@@ -63,7 +63,7 @@
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Language-learning-&theme=merko" alt="GitHub Stats" />
         </a>
         <a href="https://github.com/DarthKar/Proyecto-IS">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar8&repo=Proyecto-IS&theme=merko" alt="GitHub Stats" />
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Proyecto-IS&theme=merko" alt="GitHub Stats" />
         </a>
   </p>
 </div>
