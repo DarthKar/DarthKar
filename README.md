@@ -10,7 +10,7 @@
 - :school: I'm currently student at **Universidad Nacional De Colombia sede Medellin**
 - :books: My major is **Systems and Computer Engineering**
 - 🌎 I'm living now in **Bello, Antioquia, Colombia**
-- 🗿 I'm a Junior Programmer 🐍
+- 🗿 **I'm a Junior Programmer 🐍**
 - 🐳: I'm interested in coding techniques, learning new lenguages and learn about software product development and administration 
 - 📘: My quote is **_"Start with what is right rather than what is acceptable"_**
   
