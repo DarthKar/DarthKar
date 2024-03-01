@@ -85,7 +85,17 @@
   <a href="mailto:miguelangelpenamarin@gmail.com">
     <img align="center" alt=Darth  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png"/>
   </a>
- 
+
+<div align="center">
+  <p align="center">
+    here some friends contact too
+  </p>
+  <p align="center">
+      <a href="https://github.com/Ritz38" target="_blank">
+      <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  </p>
+</div>
 
 <div align="center">
   🦈 Thanks for watching my profile! Have a nice day! 🦈 <br/>
