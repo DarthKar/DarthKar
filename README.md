@@ -88,7 +88,7 @@
 
 <div align="center">
   <p align="center">
-    here some friends contact too
+   here the contact of some friends
   </p>
   <p align="center">
       <a href="https://github.com/Ritz38" target="_blank">
