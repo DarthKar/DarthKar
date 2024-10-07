@@ -19,9 +19,11 @@
 </p>
 
   
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> A glimpse into my GitHub stats and abilities
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthkar&theme=merko" alt="darthkar" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DarthKar&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="darthkar" /></p> 	
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarthKar&theme=merko&hide_border=true" alt="darthkar" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthKar&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="darthkar" /></p> 	
 </div>
 <br>
 
