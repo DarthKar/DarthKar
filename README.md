@@ -14,6 +14,11 @@
 - 🐳: I'm interested in coding techniques, learning new lenguages and learn about software product development and administration 
 - 📘: My quote is **_"Start with what is right rather than what is acceptable"_**
   
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthkar&theme=merko" alt="darthkar" /></p> 
